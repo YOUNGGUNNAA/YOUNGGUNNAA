@@ -1,16 +1,22 @@
-## Hi there 👋
+# Capo
 
-<!--
-**YOUNGGUNNAA/YOUNGGUNNAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AegisPanel.
 
-Here are some ideas to get you started:
+I am starting with one product: a clean, installable control platform for operators who need subscriptions, licensing, reseller workflows, and reliable Docker deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- AegisPanel - commercial-grade admin and reseller platform
+- License-first architecture
+- Docker-first installation
+- Clean docs for self-hosted deployment
+- Secure automation and maintainable operations
+
+## Project Rules
+
+- Original branding
+- No inherited product names
+- No leaked secrets in public repositories
+- Every feature documented before release
+
+More soon.
